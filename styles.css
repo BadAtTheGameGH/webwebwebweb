@@ -76,4 +76,11 @@ td {
 a:link,
 a:visited {
   color: blue;
+  text-decoration: none;
+}
+a,a:hover {
+  text-decoration: none;
+}
+a:hover {
+  color: yellow;
 }
