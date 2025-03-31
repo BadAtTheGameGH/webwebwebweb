@@ -61,6 +61,10 @@ table,
   border: 3px solid green;
   border-collapse: collapse;
 }
+table {
+  float: left;
+  margin-right: 15px;
+}
 th {
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
