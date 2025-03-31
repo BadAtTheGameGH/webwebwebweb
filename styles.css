@@ -57,14 +57,18 @@ p {
 table,
 .frame {
   border: 3px solid green;
+  border-collapse: collapse;
 }
 th {
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
+  padding: 5px;
 }
 td {
   background-color: rgba(227, 225, 233, 0.8);
   text-align: center;
+  padding: 5px;
+  border: 2px black solid;
 }
 
 a:link,
