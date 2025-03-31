@@ -44,6 +44,11 @@ p.imgtitle {
   margin: 0;
 }
 
+p {
+  text-indent: 25px;
+  text-align: justify;
+}
+
 table,
 .frame {
   border: 3px solid green;
